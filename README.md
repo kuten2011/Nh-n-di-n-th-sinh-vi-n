@@ -1,1 +1,1 @@
-"# Nhan-dien-the-sinh-vien" 
+báo cáo và ông tin trong file pdf
