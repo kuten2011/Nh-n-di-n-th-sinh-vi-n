@@ -1,1 +1,1 @@
-báo cáo và ông tin trong file pdf
+báo cáo và thông tin trong file pdf
